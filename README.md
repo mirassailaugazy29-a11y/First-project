@@ -1,2 +1,2 @@
-# First-project
-My first project. C++ casino
+первый проект
+угадайка с++
